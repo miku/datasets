@@ -17,8 +17,4 @@ thr_nbg-street_0727+20-3-42.png no
 thr_nbg-street_0120+9-2-42.png yes
 ```
 
-![](examples/webcam/thr_nbg-street_0470+15-44-24.png)
-
-![](examples/webcam/xxx_nbg-street_0579+19-4-33.png)
-
-![](examples/webcam/zzz_nbg-street_0475+17-20-42.png)
+![](examples/webcam/thr_nbg-street_0470+15-44-24.png), ![](examples/webcam/xxx_nbg-street_0579+19-4-33.png), ![](examples/webcam/zzz_nbg-street_0475+17-20-42.png)
