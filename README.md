@@ -2,6 +2,8 @@
 
 Lists of datasets and dataset lists.
 
+* [Labeled dataset: Pictures of street scenes](https://github.com/miku/datasets#labeled-dataset-pictures-of-street-scenes)
+
 ## Labeled dataset: Pictures of street scenes
 
 * [Homepage](https://www.informatik.uni-augsburg.de/de/lehrstuehle/dbis/db/alumni/mandl/downloads/)
