@@ -57,3 +57,8 @@ content identification, table recognition, marking detection, and lot more.
 
 * [Homepage](http://www.fki.inf.unibe.ch/databases/iam-historical-document-database)
 
+* Saint Gall Database - 9th century, Latin
+* Parzival Database - 13th century, German
+* Washington Database - 18th century, English
+
+![](examples/parzivaldb.png)
