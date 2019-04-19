@@ -26,3 +26,34 @@ thr_nbg-street_0120+9-2-42.png yes
 
 ![](examples/iam/a01-122-02-00.jpg), ![](examples/iam/a01-122-02.jpg)
 
+## IAM online handwriting database
+
+* [Homepage](http://www.fki.inf.unibe.ch/databases/iam-on-line-handwriting-database)
+
+## IAM faces database
+
+* [Homepage](http://www.fki.inf.unibe.ch/databases/iam-faces-database)
+
+## IAM online document database
+
+* [Homepage](http://www.fki.inf.unibe.ch/databases/iam-online-document-database)
+
+> The IAMonDo-database (short for IAM online document database) contains 941
+> online handwritten documents
+acquired with a digital pen (Logitech IO2). The documents  consists of text
+blocks, lists, tables, formulas, diagrams, drawings, and markings. Such pieces
+of content have been placed in arbitrary positions on each document. Ground
+truth information is provided down to the word level.  The digital ink, the
+annotation, and the collected meta data of the writers are stored in xml-files
+complying with the W3C standard InkML.  It can be used to train and test
+methods for handwritten text recognition, document layout analysis, document
+content identification, table recognition, marking detection, and lot more.
+
+## IAM historical document database
+
+> The IAM-HistDB is a repository of data sets that contain handwritten
+> historical manuscript images together with ground truth data for training and
+> testing automatic handwriting recognition systems.
+
+* [Homepage](http://www.fki.inf.unibe.ch/databases/iam-historical-document-database)
+
