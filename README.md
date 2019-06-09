@@ -62,3 +62,13 @@ content identification, table recognition, marking detection, and lot more.
 * Washington Database - 18th century, English
 
 ![](examples/parzivaldb.png)
+
+## Technoset
+
+> Technoset is a data-set of 90,933 electronic music loops, totalling around 50
+> hours. Each loop has a length of 1.827-seconds and is at 128bpm. The loops
+> are from 10,000 separate electronic music tracks.
+
+* https://www.math.uci.edu/~isik/posts/Technoset.html
+
+Formats: wav, hdf5.
